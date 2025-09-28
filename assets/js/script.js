@@ -120,5 +120,3 @@ formEl.addEventListener("submit", (event) => {
 
   updateTracker(ip);
 });
-
-// background image on smaller screens is leaving white space at the bottom so fix that
