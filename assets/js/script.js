@@ -61,7 +61,7 @@ async function fetchIPAddressInfo(ipAddress) {
 
 function updateMap(coordinates) {
   const mapMarkerIcon = L.icon({
-    iconUrl: "../images/icon-location.svg",
+    iconUrl: "assets/images/icon-location.svg",
     iconAnchor: [23, 56],
   });
 
